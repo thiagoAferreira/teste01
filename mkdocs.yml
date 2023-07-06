@@ -1,13 +1,13 @@
 # Project information
 site_name: Template
-#site_url: http://fconhkd.github.io/
+site_url: https://thiagoaferreira.github.io/
 site_author: fconhkd
 site_description: >-
   Um modelo para futuros wikis
 
 # Repository
 repo_name: fconhkd.github.io
-repo_url: https://github.com/fconhkd/fconhkd.github.io/
+repo_url: https://github.com/thiagoaferreira/thiagoaferreira.github.io/
 edit_uri: edit/main/docs
 # edit_uri_template: 'blob/main/docs/{path}'
 
@@ -77,15 +77,15 @@ extra:
                 property: !ENV GOOGLE_ANALYTICS_KEY
         social:
                 - icon: fontawesome/brands/instagram
-                  link: https://www.instagram.com/fconhkd
+                  link: https://www.instagram.com/thiagoaferreira
                 - icon: fontawesome/brands/youtube
-                  link: https://www.youtube.com/channel/fconhkd
+                  link: https://www.youtube.com/channel/thiagoaferreira
                 - icon: fontawesome/brands/linkedin
-                  link: https://www.linkedin.com/company/fconhkd
+                  link: https://www.linkedin.com/company/thiagoaferreira
                 - icon: fontawesome/brands/facebook
-                  link: https://www.facebook.com/fconhkd
+                  link: https://www.facebook.com/thiagoaferreira
                 - icon: fontawesome/brands/github
-                  link: https://github.com/fconhkd
+                  link: https://github.com/thiagoaferreira
                 - icon: fontawesome/brands/whatsapp
                   link: https://wa.me/5511999999999
                   
