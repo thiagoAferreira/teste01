@@ -1,5 +1,5 @@
 # Project information
-site_name: Pagina do Github Thiago (chipset) A. F.
+site_name: Dinobit
 site_url: https://thiagoaferreira.github.io/
 site_author: chip
 site_description: >-
@@ -17,6 +17,10 @@ copyright: © 2023 Company - Todos os direitos reservados
 # Page tree
 nav:
         - Início: index.md
+        - objetivo.md
+        - dinobit.md
+        - estellar.md
+        - boards.md
         - about.md
 
                
